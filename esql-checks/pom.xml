@@ -34,6 +34,10 @@
       <artifactId>assertj-core</artifactId>
     </dependency>
     <dependency>
+      <groupId>com.exxeta.iss</groupId>
+      <artifactId>sonar-msgflow-plugin</artifactId>
+    </dependency>
+    <dependency>
       <groupId>${project.groupId}</groupId>
       <artifactId>esql-checks-test</artifactId>
       <scope>test</scope>
